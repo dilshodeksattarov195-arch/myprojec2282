@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyetringify",
+        "uuid": 1013208,
+        "checksum": "v45lis"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
